@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Sabores - Trufas</title>
+
+<link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+<body>
+
+
+<header>
+
+<div class="logo">
+🍫 Trufas
+</div>
+
+
+<nav>
+
+<a href="../index.html">Início</a>
+
+<a href="sabores.html">Sabores</a>
+
+<a href="sobre.html">Sobre</a>
+
+<a href="contato.html">Contato</a>
+
+</nav>
+
+
+</header>
+
+
+
+<section>
+
+<h2 class="titulo">
+Nossos Sabores
+</h2>
+
+
+<div class="cards">
+
+
+<div class="card">
+<img src="../imagens/limao.jpg">
+<h3>Mousse de Limão</h3>
+<p>R$ 4,00</p>
+</div>
+
+
+<div class="card">
+<img src="../imagens/morango.jpg">
+<h3>Mousse de Morango</h3>
+<p>R$ 4,00</p>
+</div>
+
+
+<div class="card">
+<img src="../imagens/maracuja.jpg">
+<h3>Maracujá</h3>
+<p>R$ 4,00</p>
+</div>
+
+
+</div>
+
+
+</section>
+
+
+
+<footer>
+
+© 2026 Trufas Premium
+
+</footer>
+
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Sobre - Trufas</title>
+
+<link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="logo">
+🍫 Trufas
+</div>
+
+<nav>
+
+<a href="../index.html">
+Início
+</a>
+
+<a href="sabores.html">
+Sabores
+</a>
+
+<a href="sobre.html">
+Sobre
+</a>
+
+<a href="contato.html">
+Contato
+</a>
+
+</nav>
+
+
+</header>
+
+
+
+<section>
+
+<h2 class="titulo">
+Sobre Nós
+</h2>
+
+
+<div class="sobre">
+
+<p>
+A Trufas produz chocolates artesanais premium,
+com recheios cremosos e ingredientes selecionados.
+</p>
+
+</div>
+
+
+</section>
+
+
+
+<footer>
+
+© 2026 Trufas
+
+</footer>
+
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Contato - Trufas</title>
+
+<link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="logo">
+🍫 Trufas
+</div>
+
+
+<nav>
+
+<a href="../index.html">
+Início
+</a>
+
+<a href="sabores.html">
+Sabores
+</a>
+
+<a href="sobre.html">
+Sobre
+</a>
+
+<a href="contato.html">
+Contato
+</a>
+
+
+</nav>
+
+</header>
+
+
+
+<section class="contato">
+
+
+<h2 class="titulo">
+Contato
+</h2>
+
+
+<p>
+📱 WhatsApp: (48) 99191-4218
+</p>
+
+
+<p>
+Faça sua encomenda!
+</p>
+
+
+<a class="btn"
+href="https://wa.me/5548991914218">
+
+Pedir pelo WhatsApp
+
+</a>
+
+
+</section>
+
+
+
+<footer>
+
+© 2026 Trufas Premium
+
+</footer>
+
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Pedido - Trufas</title>
+
+<link rel="stylesheet" href="../css/style.css">
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="logo">
+🍫 Trufas
+</div>
+
+</header>
+
+
+<section>
+
+
+<h2 class="titulo">
+Faça seu Pedido
+</h2>
+
+
+<p class="sobre">
+
+Cada trufa custa:
+
+<br><br>
+
+<strong>
+R$ 4,00
+</strong>
+
+<br><br>
+
+Escolha seus sabores e finalize pelo WhatsApp.
+
+</p>
+
+
+</section>
+
+
+
+<footer>
+
+© 2026 Trufas
+
+</footer>
+
+
+</body>
+
+</html>
